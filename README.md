@@ -47,14 +47,14 @@ The application mimics the architecture of popular e-commerce apps like Amazon, 
 
 Below are some screenshots depicting the application's flow:
 
-1. **Main Activity:** [Main Screen Image]([https://drive.google.com/file/d/1M6CC5tyHS_lKGSZcnFrPtOIqjEkCxXxW/view?usp=drive_link](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/Main.jpg))
-2. **Sign Up:** [Sign Up Screen Image]([https://drive.google.com/file/d/18Vj_0mmfy0Uj_G493gnl_CySTnulLnSn/view?usp=drive_link](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/registraion.jpg))
-3. **Login:** [Login Screen Image]([https://drive.google.com/file/d/1i6hM25J-qBUKUkfsYF3M35KGNStw9Ncx/view?usp=drive_link](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/Customer_login.jpg))
-4. **Home Screen:** [Home Screen Image]([https://drive.google.com/file/d/1AqdGQoIlfkrlTPyI38_DgDzltJwYW8bC/view?usp=drive_link](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/IMG-20240822-WA0003%20(1).jpg))
-5. **Product Details:** [Product Details Screen Image]([https://drive.google.com/file/d/1ma8CEvIt2e-A8f2e-AK-SCDndcDwJ_SQ/view?usp=drive_link](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/IMG-20240822-WA0006%20(1).jpg))
-6. **Cart Activity:** [Cart Activity Screen Image](https://drive.google.com/file/d/1ZG7IGKW7nu3FAq0d8Zfzc99fHFRb7_wi/view?usp=drive_link)
-7. **Admin Dashboard:** [Admin Dashboard Screen Image]([https://drive.google.com/file/d/1kpmxYiEonYJlXLg7BT-z5ZjGI38vW1IB/view?usp=drive_link](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/IMG-20240822-WA0008%20(1).jpg))
-8. **Order Management:** [Order Management Screen Image]([https://drive.google.com/file/d/1PS1lxbkaYbGhjMSE10G8_phVee3TNxvY/view?usp=drive_link](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/IMG-20240822-WA0010%20(1).jpg))
+1. **Main Activity:** [Main Screen Image](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/Main.jpg)
+2. **Sign Up:** [Sign Up Screen Image](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/registraion.jpg)
+3. **Login:** [Login Screen Image](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/Customer_login.jpg)
+4. **Home Screen:** [Home Screen Image](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/IMG-20240822-WA0003%20(1).jpg)
+5. **Product Details:** [Product Details Screen Image](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/IMG-20240822-WA0006%20(1).jpg)
+6. **Cart Activity:** [Cart Activity Screen Image](https://github.com/arjunnrajput/Shop-Online/blob/433720f5a3a1b748791000ce1e06c7b953f7e08c/Screenshots/IMG-20240822-WA0007%20(1).jpg)
+7. **Admin Dashboard:** [Admin Dashboard Screen Image](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/IMG-20240822-WA0008%20(1).jpg)
+8. **Order Management:** [Order Management Screen Image](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/IMG-20240822-WA0010%20(1).jpg)
 
 ## Conclusion
 
