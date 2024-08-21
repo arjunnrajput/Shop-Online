@@ -29,7 +29,7 @@ The application mimics the architecture of popular e-commerce apps like Amazon, 
 - **Language:** Java
 - **IDE:** Android Studio
 - **Database:** Google Firebase
-- **Minimum Android Version:** Android 12.0 (Marshmallow) and above
+- **Minimum Android Version:** Android 12.0 (Snow Cone) and above
 
 ### Hardware Requirements
 - **Platform:** Android mobile phones or equivalent emulators
