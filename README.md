@@ -1,7 +1,3 @@
-Here's a `README.md` file for your GitHub project based on the provided report details:
-
----
-
 # Shop Online - Android E-commerce Application
 
 ## Introduction
