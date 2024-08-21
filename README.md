@@ -1,4 +1,4 @@
-# Shop Online - Android E-commerce Application
+# Shopping App - Android E-commerce Application
 
 ## Introduction
 
