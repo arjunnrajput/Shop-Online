@@ -2,7 +2,7 @@
 
 ## Introduction
 
-"Shop Online" is an Android-based e-commerce application designed to provide a seamless shopping experience for users. The application targets the online fashion retail market, offering a wide range of products across various categories such as Casuals, Ethnic, Dresses, Jeans, Shorts, Skirts, Footwear, Mobile, and Watches. The application aims to cater to both Customers and Admins, ensuring a user-friendly interface that simplifies the shopping and management processes.
+"Shopping App" is an Android-based e-commerce application designed to provide a seamless shopping experience for users. The application targets the online fashion retail market, offering a wide range of products across various categories such as Casuals, Ethnic, Dresses, Jeans, Shorts, Skirts, Footwear, Mobile, and Watches. The application aims to cater to both Customers and Admins, ensuring a user-friendly interface that simplifies the shopping and management processes.
 
 ## Features
 
