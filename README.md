@@ -45,16 +45,52 @@ The application mimics the architecture of popular e-commerce apps like Amazon, 
 
 ## Screenshots
 
-Below are some screenshots depicting the application's flow:
 
-1. **Main Activity:** [Main Screen Image](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/Main.jpg)
-2. **Sign Up:** [Sign Up Screen Image](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/registraion.jpg)
-3. **Login:** [Login Screen Image](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/Customer_login.jpg)
-4. **Home Screen:** [Home Screen Image](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/IMG-20240822-WA0003%20(1).jpg)
-5. **Product Details:** [Product Details Screen Image](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/IMG-20240822-WA0006%20(1).jpg)
-6. **Cart Activity:** [Cart Activity Screen Image](https://github.com/arjunnrajput/Shop-Online/blob/433720f5a3a1b748791000ce1e06c7b953f7e08c/Screenshots/IMG-20240822-WA0007%20(1).jpg)
-7. **Admin Dashboard:** [Admin Dashboard Screen Image](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/IMG-20240822-WA0008%20(1).jpg)
-8. **Order Management:** [Order Management Screen Image](https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/IMG-20240822-WA0010%20(1).jpg)
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <h3 style="margin-top: 20px; margin-bottom: 10px; font-weight: bold;">Main Activity</h3>
+    <img src="https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/Main.jpg" width="300" alt="Main Screen Image" style="max-width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <h3 style="margin-top: 20px; margin-bottom: 10px; font-weight: bold;">Sign Up</h3>
+    <img src="https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/registraion.jpg" width="300" alt="Sign Up Screen Image" style="max-width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <h3 style="margin-top: 20px; margin-bottom: 10px; font-weight: bold;">Login</h3>
+    <img src="https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/Customer_login.jpg" width="300" alt="Login Screen Image" style="max-width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <h3 style="margin-top: 20px; margin-bottom: 10px; font-weight: bold;">Home Screen</h3>
+    <img src="https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/IMG-20240822-WA0003%20(1).jpg" width="300" alt="Home Screen Image" style="max-width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <h3 style="margin-top: 20px; margin-bottom: 10px; font-weight: bold;">Product Details</h3>
+    <img src="https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/IMG-20240822-WA0006%20(1).jpg" width="300" alt="Product Details Screen Image" style="max-width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <h3 style="margin-top: 20px; margin-bottom: 10px; font-weight: bold;">Cart Activity</h3>
+    <img src="https://github.com/arjunnrajput/Shop-Online/blob/433720f5a3a1b748791000ce1e06c7b953f7e08c/Screenshots/IMG-20240822-WA0007%20(1).jpg" width="300" alt="Cart Activity Screen Image" style="max-width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <h3 style="margin-top: 20px; margin-bottom: 10px; font-weight: bold;">Admin Dashboard</h3>
+    <img src="https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/IMG-20240822-WA0008%20(1).jpg" width="300" alt="Admin Dashboard Screen Image" style="max-width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <h3 style="margin-top: 20px; margin-bottom: 10px; font-weight: bold;">Order Management</h3>
+    <img src="https://github.com/arjunnrajput/Shop-Online/blob/38151558f87a5ec5068d0bcf9c69b7f6c7792cee/Screenshots/IMG-20240822-WA0010%20(1).jpg" width="300" alt="Order Management Screen Image" style="max-width: 100%; height: auto;">
+  </div>
+
+</div>
+
 
 ## Conclusion
 
@@ -72,7 +108,3 @@ As e-commerce continues to grow, there are numerous opportunities to expand the 
 4. [ElegantNumberButton - Number Counter for Android](https://github.com/ashik94vc/ElegantNumberButton)
 5. [Android Image Cropper Library](https://github.com/ArthurHub/Android-Image-Cropper)
 6. [Circle ImageView for Android](https://github.com/hdodenhof/CircleImageView)
-
----
-
-This `README.md` file provides a comprehensive overview of your project, including key features, implementation details, and references.
